@@ -13,7 +13,6 @@ We turn ideas into practical technology — from web applications and backend sy
 * **Web Development** — Modern, responsive, and scalable web applications
 * **Backend Development** — Secure APIs, databases, authentication, and server-side systems
 * **Application Development** — Custom applications built around real-world requirements
-* **UI/UX & Product Design** — Clean, intuitive, and user-focused digital experiences
 * **Custom Software** — Tailored solutions designed for specific business needs
 * **Deployment & Infrastructure** — Hosting, cloud deployment, APIs, storage, and production environments
 
@@ -35,7 +34,7 @@ We work with modern technologies and choose the stack based on the requirements 
 
 **Frontend**
 
-* React
+* NextJS
 * TypeScript
 * JavaScript
 * HTML / CSS
