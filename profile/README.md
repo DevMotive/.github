@@ -78,7 +78,7 @@ We're interested in working on meaningful projects where technology can create r
 
 **Website:** [devmotive.dev](https://devmotive.dev)
 
-**Contact:** [contact@devmotive.site](mailto:contact@devmotive.site)
+**Contact:** [contact@devmotive.dev](mailto:contact@devmotive.dev)
 
 ---
 
