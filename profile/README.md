@@ -2,7 +2,7 @@
 
 ### We Think • We Build • We Grow.
 
-[DevMotive](https://devmotive.site) is a software development company focused on building modern, reliable, and scalable digital products.
+[DevMotive](https://devmotive.dev) is a software development company focused on building modern, reliable, and scalable digital products.
 
 We turn ideas into practical technology — from web applications and backend systems to custom platforms and digital solutions.
 
@@ -76,7 +76,7 @@ Have an idea, product, or problem that needs a technical solution?
 
 We're interested in working on meaningful projects where technology can create real value.
 
-**Website:** [devmotive.site](https://devmotive.site)
+**Website:** [devmotive.dev](https://devmotive.dev)
 
 **Contact:** [contact@devmotive.site](mailto:contact@devmotive.site)
 
